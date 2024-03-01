@@ -113,6 +113,8 @@ body {
 .tertiary {
   font-size: 15px;
 }
+.tertiary ol{
+   list-style: none; }
 /* End Base */
 
 /* Menu */
